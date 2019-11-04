@@ -1,0 +1,92 @@
+2019-04-03 10:36:26,627 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+2019-04-03 10:36:28,741 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+2019-04-03 10:36:29,569 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+2019-04-03 12:39:49,717 INFO [main] h.j.v.g.Glavna [Glavna.java:269] Korisnik je krivi format datuma
+2019-04-03 12:49:59,799 INFO [main] h.j.v.e.FakultetRacunarstva [FakultetRacunarstva.java:119] Pronađeno je više najmlađih studenata s istim datumom rođenja
+2019-04-03 14:13:07,627 INFO [main] h.j.v.e.FakultetRacunarstva [FakultetRacunarstva.java:119] Pronađeno je više najmlađih studenata s istim datumom rođenja
+2019-04-03 14:18:41,169 INFO [main] h.j.v.e.FakultetRacunarstva [FakultetRacunarstva.java:119] Pronađeno je više najmlađih studenata s istim datumom rođenja
+2019-04-03 14:24:02,701 INFO [main] h.j.v.g.Glavna [Glavna.java:269] Korisnik je krivi format datuma
+2019-04-03 14:27:10,344 INFO [main] h.j.v.g.Glavna [Glavna.java:136] Korisnik je unio slovo kod unos ECTS bodova
+2019-04-03 14:28:10,748 INFO [main] h.j.v.e.FakultetRacunarstva [FakultetRacunarstva.java:119] Pronađeno je više najmlađih studenata s istim datumom rođenja
+2019-04-03 15:37:55,227 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+2019-04-03 17:12:39,330 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:36)
+2019-04-03 17:19:20,495 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:36)
+2019-04-03 17:20:47,599 INFO [main] h.j.v.g.Glavna [Glavna.java:41] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:36)
+2019-04-05 10:23:32,363 INFO [main] h.j.v.g.Glavna [Glavna.java:137] Korisnik je unio slovo kod unos ECTS bodova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:132)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:61)
+2019-04-05 10:23:33,528 INFO [main] h.j.v.g.Glavna [Glavna.java:137] Korisnik je unio slovo kod unos ECTS bodova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:132)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:61)
+2019-04-05 10:23:40,191 INFO [main] h.j.v.g.Glavna [Glavna.java:137] Korisnik je unio slovo kod unos ECTS bodova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:132)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:61)
+2019-04-05 10:23:40,473 INFO [main] h.j.v.g.Glavna [Glavna.java:137] Korisnik je unio slovo kod unos ECTS bodova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:132)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:61)
+2019-04-05 10:24:12,180 INFO [main] h.j.v.g.Glavna [Glavna.java:273] Korisnik je krivi format datuma
+2019-04-09 20:39:14,911 INFO [main] h.j.v.g.Glavna [Glavna.java:285] Korisnik je krivi format datuma
+2019-04-10 14:04:06,986 INFO [main] h.j.v.g.Glavna [Glavna.java:150] Korisnik je unio slovo kod unos ECTS bodova
+java.util.InputMismatchException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.unesiPredmet(Glavna.java:145)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:67)
+2019-04-10 14:07:16,345 INFO [main] h.j.v.g.Glavna [Glavna.java:214] Korisnik je unio krivi format datuma rodenja
+java.time.format.DateTimeParseException: Text '22.02.2019.22:00' could not be parsed, unparsed text found at index 11
+	at java.base/java.time.format.DateTimeFormatter.parseResolved0(DateTimeFormatter.java:2049)
+	at java.base/java.time.format.DateTimeFormatter.parse(DateTimeFormatter.java:1948)
+	at java.base/java.time.LocalDate.parse(LocalDate.java:428)
+	at hr.java.vjezbe.glavna.Glavna.unesiStudenta(Glavna.java:209)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:72)
+2019-04-16 15:43:12,442 INFO [main] h.j.v.g.Glavna [Glavna.java:292] Korisnik je krivi format datuma
+2019-04-16 18:36:00,700 INFO [main] h.j.v.g.Glavna [Glavna.java:291] Korisnik je krivi format datuma
+2019-04-17 17:56:20,893 INFO [main] h.j.v.g.Glavna [Glavna.java:291] Korisnik je krivi format datuma
+2019-04-17 19:13:20,904 INFO [main] h.j.v.g.Glavna [Glavna.java:287] Korisnik je krivi format datuma
+2019-05-14 12:35:21,057 INFO [main] h.j.v.g.Glavna [Glavna.java:52] Korisnik je unio slovo kod unosa broja obrazovnih ustanova
+java.util.NoSuchElementException: null
+	at java.base/java.util.Scanner.throwFor(Scanner.java:937)
+	at java.base/java.util.Scanner.next(Scanner.java:1594)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+	at hr.java.vjezbe.glavna.Glavna.main(Glavna.java:47)

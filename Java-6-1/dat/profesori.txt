@@ -1,0 +1,25 @@
+1
+P5567
+Janko
+Petrović
+Viši Java Programer
+2
+P9878
+Ivica
+Župan
+Profesor visoke škole
+3
+P2222
+Pero
+Perić
+Profesor strukovne škole
+4
+P2222
+Filip
+Penjava
+Profesor politike
+5
+P2222
+Romana
+Glavinić
+Profesorica likovnog
